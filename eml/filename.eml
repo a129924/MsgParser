@@ -1,0 +1,22 @@
+Content-Type: multipart/mixed; boundary="===============1131505718254669575=="
+MIME-Version: 1.0
+Subject: Simple message
+From: sender@sending.domain
+To: rcpt@receiver.domain
+
+--===============1131505718254669575==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIHNpbXBsZSBtZXNzYWdlLgpBbmQgYSB2ZXJ5IHNpbXBsZSBvbmUuIArmiJHmmK/k
+uK3mloflrZcg5ouJ5ouJ5ouJ
+
+--===============1131505718254669575==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="test.text"
+
+
+--===============1131505718254669575==--
